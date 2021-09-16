@@ -1,2 +1,2 @@
 # ReactTryouts
-react learning coursers and projects
+react learning  projects
